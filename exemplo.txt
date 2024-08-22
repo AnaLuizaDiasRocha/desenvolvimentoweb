@@ -1,0 +1,32 @@
+Introdução: O Dispositivo do Tempo
+Página 1:
+Mensagem: "Você encontra um antigo dispositivo em um sótão empoeirado. Ao ativá-lo, uma luz brilhante envolve você e, quando desaparece, você se encontra em uma época diferente. Onde você deseja ir?"
+
+Opções:
+
+Idade das Pirâmides
+Mensagem: "Você é transportado para o Egito Antigo, onde pirâmides estão sendo construídas. A energia da época é vibrante, e você vê trabalhadores e sacerdotes ao redor. O que você faz agora?"
+
+Explorar a construção da pirâmide
+Mensagem: "Você se aproxima dos trabalhadores e tenta entender como as pirâmides estão sendo erguidas. Descobre segredos antigos sobre as técnicas de construção e acaba ajudando a desvendar um mistério sobre um artefato perdido."
+Interagir com um sacerdote
+Mensagem: "Você conversa com um sacerdote e descobre que há um rito secreto prestes a acontecer. Ele revela segredos místicos sobre o Egito e pode até mesmo oferecer uma pista sobre como retornar ao seu tempo."
+Era Medieval
+Mensagem: "Você se encontra em uma aldeia medieval cercada por um castelo imponente. O clima é frio e o ambiente é repleto de cavaleiros e feirantes. O que você decide fazer?"
+
+Visitar o castelo
+Mensagem: "Dentro do castelo, você descobre uma trama de traição envolvendo o rei e seus conselheiros. Suas ações podem alterar o destino do reino e sua própria capacidade de retornar ao presente."
+Explorar a aldeia
+Mensagem: "Na aldeia, você conhece habitantes locais e se envolve em uma disputa entre famílias. Suas escolhas podem afetar a relação entre os aldeões e proporcionar pistas sobre um artefato mágico que pode ajudar a voltar no tempo."
+Futuro Distante
+Mensagem: "Você é transportado para uma cidade futurista repleta de tecnologia avançada e seres humanos convivendo com robôs. O ambiente é limpo e eficiente. O que você faz agora?"
+
+Visitar um laboratório de tecnologia
+Mensagem: "No laboratório, você encontra cientistas trabalhando em novas invenções. Uma delas é um dispositivo semelhante ao que você usou. Você pode descobrir como aperfeiçoá-lo para uma viagem temporal mais segura."
+Interagir com um robô
+Mensagem: "Você conversa com um robô e descobre que ele possui informações valiosas sobre a evolução do tempo e eventos históricos que você pode usar para ajudar a retornar ao seu período."
+Conclusão: Retorno ao Presente
+Página 2 (Final para todas as opções):
+Mensagem: "Após suas aventuras, você finalmente encontra uma maneira de usar o dispositivo para voltar ao presente. O que você aprendeu durante suas viagens no tempo mudou sua visão do mundo e lhe deu uma nova perspectiva. Você está de volta ao seu tempo, mas as memórias das épocas que visitou permanecerão com você para sempre."
+
+Este esquema proporciona uma narrativa envolvente com múltiplos caminhos e finais, permitindo ao usuário explorar diferentes períodos históricos e tomar decisões que afetam o desenvolvimento da história.
