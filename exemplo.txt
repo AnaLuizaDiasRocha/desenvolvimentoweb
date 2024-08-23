@@ -27,7 +27,7 @@ Mensagem: "No laboratório, você encontra cientistas trabalhando em novas inven
 Interagir com um robô
 Mensagem: "Você conversa com um robô e descobre que ele possui informações valiosas sobre a evolução do tempo e eventos históricos que você pode usar para ajudar a retornar ao seu período."
 Conclusão: Retorno ao Presente
-Página 2 (Final para todas as opções):
-Mensagem: "Após suas aventuras, você finalmente encontra uma maneira de usar o dispositivo para voltar ao presente. O que você aprendeu durante suas viagens no tempo mudou sua visão do mundo e lhe deu uma nova perspectiva. Você está de volta ao seu tempo, mas as memórias das épocas que visitou permanecerão com você para sempre."
+Página 2 (Final para todas as opções):Após suas aventuras, você finalmente encontra uma maneira de usar o dispositivo para voltar ao presente. O que você aprendeu durante suas viagens no tempo mudou sua visão do mundo e lhe deu uma nova perspectiva. Você está de volta ao seu tempo, mas as memórias das épocas que visitou permanecerão com você para sempre.
+Mensagem: ""
 
 Este esquema proporciona uma narrativa envolvente com múltiplos caminhos e finais, permitindo ao usuário explorar diferentes períodos históricos e tomar decisões que afetam o desenvolvimento da história.
